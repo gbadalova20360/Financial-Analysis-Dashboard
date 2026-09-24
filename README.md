@@ -32,16 +32,16 @@ Interactive financial analysis and reporting dashboard developed using Microsoft
 
 ### Executive Summary
 
-![Executive Summary](dashboard-1.png)
+![Executive Summary](ExecutiveSummary.png)
 
 ### Variance Analysis
 
-![Variance Analysis](dashboard-2.png)
+![Variance Analysis](VarianceAnalysis.png)
 
 ### Cash Flow
 
-![Cash Flow](dashboard-3.png)
+![Cash Flow](CashFlow.png)
 
 ### Balance Sheet
 
-![Balance Sheet](dashboard-4.png)
+![Balance Sheet](BalanceSheet.png)
